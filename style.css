@@ -147,12 +147,7 @@ main {
         flex-direction: column;
         gap: 10px;
     }
-    h1 {
-        margin: 0px;
-        font-size: 1em;
-        font-weight: bold;
-    }
-    .moogle {
-        display: none;
+    header {
+        gap: 0px;
     }
 }
