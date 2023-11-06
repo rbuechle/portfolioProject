@@ -142,7 +142,7 @@ main {
     font-size: 2em;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 768px) {
     nav {
         flex-direction: column;
         gap: 10px;
